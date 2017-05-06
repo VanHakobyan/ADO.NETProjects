@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWPFStringBilder", "Log
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pooling", "Pooling\Pooling.csproj", "{E33D8A9D-7674-49FF-BADA-42A95F2B3804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigString", "ConfigString\ConfigString.csproj", "{8FC2E25D-DCD8-462A-A56F-476F07FA5BA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E33D8A9D-7674-49FF-BADA-42A95F2B3804}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E33D8A9D-7674-49FF-BADA-42A95F2B3804}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E33D8A9D-7674-49FF-BADA-42A95F2B3804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC2E25D-DCD8-462A-A56F-476F07FA5BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC2E25D-DCD8-462A-A56F-476F07FA5BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC2E25D-DCD8-462A-A56F-476F07FA5BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC2E25D-DCD8-462A-A56F-476F07FA5BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
