@@ -16,7 +16,7 @@ namespace ConnectionString
             try
             {
                 connection.Open();
-                Console.WriteLine("connection opened");
+                Console.WriteLine("connection" + connection.State);
             }
             catch (Exception ex)
             {
@@ -25,7 +25,7 @@ namespace ConnectionString
             finally
             {
                 connection.Close();
-                Console.WriteLine("connection closed");
+                Console.WriteLine("connection" + connection.State);
             }
         }
     }
