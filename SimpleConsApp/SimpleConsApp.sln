@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionUsing", "Connecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPasswordSQL", "LoginPasswordSQL\LoginPasswordSQL.csproj", "{B4AACD3F-26F3-4059-A521-936C0D71C0DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWPFStringBilder", "LoginWPFStringBilder\LoginWPFStringBilder.csproj", "{3145C036-4689-498B-9A66-0D89608BE0CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B4AACD3F-26F3-4059-A521-936C0D71C0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4AACD3F-26F3-4059-A521-936C0D71C0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4AACD3F-26F3-4059-A521-936C0D71C0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3145C036-4689-498B-9A66-0D89608BE0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145C036-4689-498B-9A66-0D89608BE0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145C036-4689-498B-9A66-0D89608BE0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145C036-4689-498B-9A66-0D89608BE0CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
