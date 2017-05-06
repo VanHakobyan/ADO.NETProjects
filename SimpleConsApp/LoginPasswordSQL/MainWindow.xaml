@@ -1,0 +1,17 @@
+﻿<Window x:Class="LoginPasswordSQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoginPasswordSQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="257.895" Width="473.685">
+    <Grid Margin="0,0,-8,-4">
+        <Label x:Name="Login" Content="Login" HorizontalAlignment="Left" Margin="89,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="Password" Content="Password" HorizontalAlignment="Left" Margin="89,105,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="LoginT" HorizontalAlignment="Left" Height="23" Margin="188,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <TextBox x:Name="PasswordT" HorizontalAlignment="Left" Height="23" Margin="188,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="170"/>
+        <Button x:Name="Log" Content="Login" Margin="225,174,174,0" VerticalAlignment="Top" Click="Log_Click"/>
+
+    </Grid>
+</Window>
