@@ -5,5 +5,5 @@ ADO.NET is a set of classes that expose data access services for .NET Framework 
 <hr/>
 <h4>📄 I advise you to learn from the following sources codes 📄</h4>
 <ul>
-<li>:one: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/SimpleConsApp"></a>
+<li>:one: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/SimpleConsApp">Simple Project</a>
 <ul/>
