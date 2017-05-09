@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaederWork02", "RaederWork0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteAsync", "ExecuteAsync\ExecuteAsync.csproj", "{E0EDD68D-963C-4ED5-B36B-667B10065B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackajeCommands", "PackajeCommands\PackajeCommands.csproj", "{28618BF3-37BB-4F63-8564-1759F11FE826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E0EDD68D-963C-4ED5-B36B-667B10065B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0EDD68D-963C-4ED5-B36B-667B10065B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0EDD68D-963C-4ED5-B36B-667B10065B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28618BF3-37BB-4F63-8564-1759F11FE826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28618BF3-37BB-4F63-8564-1759F11FE826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28618BF3-37BB-4F63-8564-1759F11FE826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28618BF3-37BB-4F63-8564-1759F11FE826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
