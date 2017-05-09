@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteTable", "ExecuteTabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWork01", "ReaderWork01\ReaderWork01.csproj", "{F5E078EB-5A6C-41B5-928B-33E7C31544BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaederWork02", "RaederWork02\RaederWork02.csproj", "{A14CDA54-C146-471C-B07D-91A0BDD7749C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F5E078EB-5A6C-41B5-928B-33E7C31544BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E078EB-5A6C-41B5-928B-33E7C31544BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E078EB-5A6C-41B5-928B-33E7C31544BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14CDA54-C146-471C-B07D-91A0BDD7749C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14CDA54-C146-471C-B07D-91A0BDD7749C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14CDA54-C146-471C-B07D-91A0BDD7749C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14CDA54-C146-471C-B07D-91A0BDD7749C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
