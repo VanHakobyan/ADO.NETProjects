@@ -27,6 +27,7 @@ namespace InsertDelete
             deleteCommand.CommandText = "Delete Customers where FName = 'Van'";
             int rowB = deleteCommand.ExecuteNonQuery();
             Console.WriteLine("Delete Row"+rowA);
+            connection.Close();
         }
     }
 }
