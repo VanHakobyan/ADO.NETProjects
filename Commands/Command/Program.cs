@@ -21,6 +21,11 @@ namespace Command
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = connection;
             cmd.CommandText = "select * from ShopDB";
+            //second method--------------------
+            cmd = connection.CreateCommand();
+            cmd.CommandText = "select * from ShopDB";
+            // thread method
+            cmd = new SqlCommand("select * from ShopDB", connection);
             connection.Close();
         }
     }
