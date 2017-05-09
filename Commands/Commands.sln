@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteCommand", "ExecuteCommand\ExecuteCommand.csproj", "{65D014FE-119E-4C46-8B4E-A2FF51FA0E6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertDelete", "InsertDelete\InsertDelete.csproj", "{60D6A6A0-DEB6-48E9-9364-7C3AF3C563B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{65D014FE-119E-4C46-8B4E-A2FF51FA0E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D014FE-119E-4C46-8B4E-A2FF51FA0E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D014FE-119E-4C46-8B4E-A2FF51FA0E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D6A6A0-DEB6-48E9-9364-7C3AF3C563B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D6A6A0-DEB6-48E9-9364-7C3AF3C563B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D6A6A0-DEB6-48E9-9364-7C3AF3C563B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D6A6A0-DEB6-48E9-9364-7C3AF3C563B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
