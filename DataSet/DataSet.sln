@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataRow", "DataRow\DataRow.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableWork", "TableWork\TableWork.csproj", "{51A0D1DC-BBA6-471A-AC63-E688FD4911B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSchema", "DataSchema\DataSchema.csproj", "{51EC32E3-BD13-461B-9A86-FA3F418E3581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{51A0D1DC-BBA6-471A-AC63-E688FD4911B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A0D1DC-BBA6-471A-AC63-E688FD4911B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A0D1DC-BBA6-471A-AC63-E688FD4911B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EC32E3-BD13-461B-9A86-FA3F418E3581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EC32E3-BD13-461B-9A86-FA3F418E3581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EC32E3-BD13-461B-9A86-FA3F418E3581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EC32E3-BD13-461B-9A86-FA3F418E3581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
