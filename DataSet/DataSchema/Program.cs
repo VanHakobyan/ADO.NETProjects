@@ -26,8 +26,21 @@ namespace DataSchema
                 }
             }
 
-          //  DataTable customers = new DataTable("customers");
+            DataTable NEW = new DataTable("new");
+            foreach (DataRow row in schema.Rows)
+            {
+                var ColInstert = new DataColumn((string)row["ColumnName"], (Type)row["DataType"]);
+                NEW.Columns.Add(ColInstert);
 
+            }
+            Console.WriteLine("-----------------------------");
+
+            foreach (DataColumn col in NEW.Columns)
+            {
+                Console.WriteLine($"{col.ColumnName} {col.DataType}");
+            }
+            reader.Close();
+            connection.Close();
         }
     }
 }
