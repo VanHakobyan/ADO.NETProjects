@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxlengt and unique", "maxl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableExtentions", "TableExtentions\TableExtentions.csproj", "{0568E39E-BAF4-4240-8D13-7FC77199B79A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryKey", "PrimaryKey\PrimaryKey.csproj", "{444BD641-9E4A-4984-A3DE-237641293D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0568E39E-BAF4-4240-8D13-7FC77199B79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0568E39E-BAF4-4240-8D13-7FC77199B79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0568E39E-BAF4-4240-8D13-7FC77199B79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444BD641-9E4A-4984-A3DE-237641293D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444BD641-9E4A-4984-A3DE-237641293D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444BD641-9E4A-4984-A3DE-237641293D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444BD641-9E4A-4984-A3DE-237641293D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
