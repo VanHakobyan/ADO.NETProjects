@@ -11,5 +11,5 @@ ADO.NET is a set of classes that expose data access services for .NET Framework 
 <li>:four: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/DataSet">DataSet</a>
 <li>:five: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/DirtyRead">DirtyRead</a>
 <li>:six: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/ParametrizedCommands">Parametrized Commands</a>
-<li>:seven: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/Commands">Command</a>
+<li>:seven: <a href="https://github.com/VanHakobyan/ADO.NETProjects/tree/master/AdoNet">Project Schema </a>
 <ul/>
